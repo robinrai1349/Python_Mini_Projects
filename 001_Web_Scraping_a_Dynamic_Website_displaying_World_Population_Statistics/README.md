@@ -6,6 +6,10 @@ Using Python and Web scraping to retrieve or "scrape" data from a website with d
 
 Using **[Worldometer](https://www.worldometers.info/world-population/)** website to fetch the data because the page is dynamic and the counters are updating live.
 
+<p align="center">  
+ <img src="wordometer1.png" width="700"/>
+</p>  
+
 ## Install Necessary Modules:
 
  -       pip install selenium
